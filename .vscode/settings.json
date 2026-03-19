@@ -1,4 +1,10 @@
 {
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html",
+    "javascript": "javascript",
+    "typescript": "typescript"
+  },
+  "css.validate": false,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "[typescriptreact]": {

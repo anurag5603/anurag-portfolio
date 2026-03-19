@@ -28,8 +28,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "My skills",
+    description: "Building & Learning 💡",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -49,8 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
+    title: "Tech in Motion 🚀",
+    description: "Currently learning system design",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Anurag did an excellent job, and I would certainly hire Satyam again. Quick response/professional communication/high-quality work.",
+    name: "Rohit Shetty",
+    title: "Founder and CEO @ AutoMynd",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Anurag is a true professional and very easy to work with. He solved our problem and developed a quick prototype.",
+    name: "Shane Cloyd",
+    title: "Founder and CEO @ Ourdotart",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I had the pleasure of working with Anurag on a recent project, and I couldn't be more satisfied with the outcome. He completed the job not only successfully but also in a timely manner. The collaboration was smooth and efficient. Every aspect of the project met or exceeded expectations. I highly recommend !",
+    name: "Lindsey Phillips",
+    title: "Employee @ Wetjetpacks",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I've used Anurag on several projects in the past, and his services have never disappointed. His professionalism and dedication to delivering quality results are exceptional. I greatly appreciated his ability to think outside the box, innovate, and find more efficient solutions for my project. I won't hesitate to work with Anurag again in the future.",
+    name: "Gerard Hoff",
+    title: "Founder and CEO @ Dataspeed",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Anurag did an excellent job, and I would certainly hire Satyam again. Quick response/professional communication/high-quality work.",
+    name: "Dyllan Waller",
+    title: "Client from linkedin",
   },
 ];
 
